@@ -4,5 +4,3 @@ metadata:
   imports:
     - xebialabs/xld-infra-env.yaml
     - xebialabs/xld-apps.yaml
-    - xebialabs/xlr-pipeline-ci-cd.yaml
-    - xebialabs/xlr-pipeline-destroy.yaml
